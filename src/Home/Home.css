@@ -1,0 +1,121 @@
+body{
+    background-color: rgb(40, 39, 39);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Main-container{
+   display: flex;
+   justify-content: space-evenly;
+   /* justify-content: row; */
+   /* flex-wrap: wrap;  */
+}
+.heading-container{
+    display: inline-block;
+}
+.heading{
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 20px;
+    color: white;
+}
+.typed-out{
+    overflow: hidden;
+    border-right: .1em solid rgb(40, 39, 39);
+    white-space: nowrap;
+    animation: typing infinite ease-out;
+    animation-duration: 6s;
+    animation-timing-function: steps(0, end);
+    /* animation-fill-mode: forwards; */
+    font-size: 30px;  
+    width: 0;
+    padding-left: 240px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+@keyframes typing{
+    from {width: 0;}
+    to {width: 100%;}
+}
+.container1{
+    width: 60%;
+    height: 300px;
+    margin: 20px;
+}
+.container2{
+    width: 35%;
+    height: 300px;
+    margin: 20px;
+}
+#myName{
+    color:yellow;
+}
+#ProfileImg{
+    margin-top: 5px;
+}
+#GithubImg{
+    height: 35px;
+    /* padding-top: 5px; */
+}
+#LinkdinImg{
+    height: 35px;
+    /* padding-top: 5px; */
+}
+#InstaImg{
+    height: 35px;
+    /* padding-top: 5px; */
+}
+#download{
+    font-size: 16px;
+    padding: 8px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0.5px 0.5px 0px 0px;
+    color: white;
+    background-color: rgb(40, 39, 39);
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 310px;
+    margin-bottom: 20px;
+}
+#github-btn{
+    cursor: pointer;
+    padding: 4px 7px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 2px;
+    margin-left: 250px;
+    box-shadow: 0px 1px 1px 0px rgb(84, 84, 84);
+}
+#linkdin-btn{
+    cursor: pointer;
+    box-shadow: 0px 1px 1px 0px rgb(84, 84, 84);
+    padding: 4px 7px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#instagram-btn{
+    cursor: pointer;
+    box-shadow: 0px 1px 1px 0px rgb(84, 84, 84);
+    padding: 5px 5px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.social-btn{
+    margin-left:30px ;
+}
+#description{
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+    color: white;
+    display: inline-block;
+}
