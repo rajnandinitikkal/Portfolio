@@ -107,90 +107,10 @@ function AboutMe() {
         </section>
       </div>
 
-      {/* <section class="mh-skills" id="mh-skills">
-        <div class="containerbox">
-          <div class="row">
-            <div class="col-sm-12 col-md-6">
-              <div class="mh-skills-inner">
-                <div class="mh-professional-skill">
-                  <h3>Technical Skills</h3>
-                  <div class="each-skills">
-
-                    <div class="candidators">
-                      <div class="practical">
-
-                        <div class="info">
-                          <div class="name">JavaScript</div>
-                          <div class="percentage-num">86%</div>
-                        </div>
-                        <div class="progressBar">
-                          <div class="percentagem" style={{width:'86%'}}></div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="candidators">
-                      <div class="practical">
-
-                        <div class="info">
-                          <div class="name">JavaScript</div>
-                          <div class="percentage-num">86%</div>
-                        </div>
-                        <div class="progressBar">
-                          <div class="percentagem" style={{width:'86%'}}></div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="candidators">
-                      <div class="practical">
-
-                        <div class="info">
-                          <div class="name">HTML</div>
-                          <div class="percentage-num">96%</div>
-                        </div>
-                        <div class="progressBar">
-                          <div class="percentagem" style={{width:'96%'}}></div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="candidators">
-                      <div class="practical">
-
-                        <div class="info">
-                          <div class="name">CSS</div>
-                          <div class="percentage-num">81%</div>
-                        </div>
-                        <div class="progressBar">
-                          <div class="percentagem" style={{width:'81%'}}></div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="candidators">
-                      <div class="practical">
-
-                        <div class="info">
-                          <div class="name">ReactJs</div>
-                          <div class="percentage-num">70%</div>
-                        </div>
-                        <div class="progressBar">
-                          <div class="percentagem" style={{width:'70%'}}></div>
-                        </div>
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </section> */}
-    </>
-  )
+      <div>
+        <h1 class="eduhead">Education</h1>
+      </div>
+</>
+)
 }
-
 export default AboutMe

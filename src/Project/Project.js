@@ -7,7 +7,7 @@ function Project() {
     <>
     <Navbar/>
     <div id='project'></div>
-    
+    <div></div>
     </>
   )
 }
