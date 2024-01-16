@@ -288,3 +288,33 @@ position: relative;
     transform: scale(0);
     transform-origin: left;
 }
+
+.eduhead{
+    text-align: center;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 3px;
+    margin-bottom: 50qw;
+    color: white;
+}
+.educationBox{
+    margin-left: 200px;
+}
+.Subeduhead{
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 1.5px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 20px;
+}
+.grade{
+    color: rgb(202, 202, 202);
+    margin-top: 5px;
+}
+.courseyear{
+    color: rgb(214, 214, 214);
+    padding-top: 25px;
+    font-size: 15px;
+}
+

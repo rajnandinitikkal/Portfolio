@@ -1,6 +1,7 @@
 import React from 'react';
 import './About.css';
 import Navbar from '../Navbar/Navbar';
+import ProgressBar from 'react-bootstrap/ProgressBar';
 
 function AboutMe() {
   return (
@@ -17,6 +18,7 @@ function AboutMe() {
                 <div class="info">
                   <span>HTML</span>
                 </div>
+                <ProgressBar now={60}/>
                 <div class="progress-line html">
                   <span></span>
                 </div>
@@ -107,8 +109,57 @@ function AboutMe() {
         </section>
       </div>
 
-      <div>
+      <div class="educationBox">
         <h1 class="eduhead">Education</h1>
+        <div>
+          <div class="educations">
+            <h3 class="Subeduhead">Bachelor's of  Engineering - BE, Computer Engineering</h3>
+            <div class="educationDescription">
+            <p>College: Hon. Shri Babanroa Pachlute Vichardhara trusts group of institutions College of Engineering, Ahmednagar</p>
+            <p class="grade">Grade: A+</p>
+            <i class="courseyear">July 2021 - June 2024</i>
+           
+            </div>
+            <br></br>  
+          </div>
+         
+    
+          <div class="educations">
+          <h3 class="Subeduhead">Diploma, Mechanical Engineering</h3>
+          <div class="educationDescription">
+          <p>College: Government of polytechnic College Kolhapur</p>
+          <p class="grade">Grade: A+</p>
+          <i class="courseyear">July 2019 - May 2021</i>
+        
+          </div>
+          <br></br>
+          </div>
+         
+
+          <div class="educations">
+          <h3 class="Subeduhead">Higher Secondary, Science</h3>
+          <div class="educationDescription">
+          <p>College: Shri Aranyeshwar Vidyalaya and Junior College Arangoan</p>
+          <p class="grade">Grade: A+</p>
+          <i class="courseyear">June 2018 - Feb 2019</i>
+         
+          </div>
+          <br></br>
+          </div>
+
+          <div class="educations">
+          <h3 class="Subeduhead">Secondary School, Semi-english</h3>
+          <div class="educationDescription">
+          <p>College: Shri vitthal vidyalaya Mahijalgon</p>
+          <p class="grade">Grade: A+</p>
+          <i class="courseyear">June 2017</i>
+    
+          </div>
+          <br></br>
+          </div>
+
+
+        </div>
       </div>
 </>
 )
