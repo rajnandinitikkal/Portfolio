@@ -109,6 +109,29 @@ function AboutMe() {
         </section>
       </div>
 
+      <div>
+        <h1 id="internshipHeading">Internships</h1>
+
+        <div class="internDetails">
+          <div class="internCards">
+            <p id="mernstack">MERN Stack</p>
+            SucessFully completed an internship in MERN Stack development, gaining hands-on experience in MongoDB, Express.js, React.js, and Node.js contributed to the development of dynamic and scalable web applications, honing skills in both frontend and backend technologies for a comprehensive understanding of morden web development.<br></br>
+            <button class="mernstackbtn">HTML</button>
+            <button class="mernstackbtn">CSS</button>
+            <button class="mernstackbtn">JavaScript</button>
+            <button class="mernstackbtn">ReactJs & AngularJs</button>
+            <button class="mernstackbtn">Git & GitHub</button>
+          </div>
+
+          <div class="internCards">
+          <p id="AzureFundamentals">Azure Fundamentals</p>
+            In Microsoft Fundamentals, focusing on cloud compuding, virtualization, and foundational Azure services to contribute to innovation and efficient clous-based solutions.<br></br>
+            <button class="mernstackbtn">Cloud Computing</button>
+            <button class="mernstackbtn">Azure Services</button>
+          </div>
+        </div>
+      </div>
+
       <div class="educationBox">
         <h1 class="eduhead">Education</h1>
         <div>

@@ -60,10 +60,6 @@ function Project() {
         <img src={DigiClock} alt="DigiClock" id='miniimg'/>
         </div>
 
-        {/* <div class="miniProjectCards">
-        <img src={TrafficLight} alt="TrafficLight" id='miniimg'/>
-        </div> */}
-
         <div class="miniProjectCards">
         <img src={Calculator} alt="Calculator" id='miniimg'/>
         </div>
