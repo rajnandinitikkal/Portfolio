@@ -151,7 +151,7 @@ function AboutMe() {
           <h3 class="Subeduhead">Diploma, Mechanical Engineering</h3>
           <div class="educationDescription">
           <p>College: Government of polytechnic College Kolhapur</p>
-          <p class="grade">Grade: A+</p>
+          <p id="grade">Grade: A+</p>
           <i class="courseyear">July 2019 - May 2021</i>
         
           </div>
@@ -163,7 +163,7 @@ function AboutMe() {
           <h3 class="Subeduhead">Higher Secondary, Science</h3>
           <div class="educationDescription">
           <p>College: Shri Aranyeshwar Vidyalaya and Junior College Arangoan</p>
-          <p class="grade">Grade: A+</p>
+          <p id="grade">Grade: A+</p>
           <i class="courseyear">June 2018 - Feb 2019</i>
          
           </div>
@@ -174,7 +174,7 @@ function AboutMe() {
           <h3 class="Subeduhead">Secondary School, Semi-english</h3>
           <div class="educationDescription">
           <p>College: Shri vitthal vidyalaya Mahijalgon</p>
-          <p class="grade">Grade: A+</p>
+          <p id="grade">Grade: A+</p>
           <i class="courseyear">June 2017</i>
     
           </div>

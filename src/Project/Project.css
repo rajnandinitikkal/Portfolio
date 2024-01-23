@@ -4,7 +4,7 @@
     text-underline-offset: 10px;
     text-decoration-thickness: 3px;
     margin-bottom: 20px;
-    color: white;
+    color: black;
 }
 #projectheading2{
     text-align: center;
@@ -12,17 +12,17 @@
     text-underline-offset: 10px;
     text-decoration-thickness: 1.2px;
     margin-bottom: 20px;
-    color: white;
+    color: black;
     margin-top: 70px;
 }
 .projectCards{
 display: flex;
+flex-wrap: wrap;
 justify-content: space-around;
 margin: 15px;
 }
 
 .miprojectCards2{
-    display: flex;
     justify-content: space-around;
     margin: 15px;
     cursor: pointer;
@@ -48,14 +48,14 @@ margin: 15px;
     text-align: center;
     margin-top: 17px;
     margin-bottom: 20px;
-    color: white;
+    color: black;
 }
 a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 #sourcecode{
-    color: yellow;
+    color: rgb(106, 0, 255);
 }
 #miniimg{
     background-size: cover;

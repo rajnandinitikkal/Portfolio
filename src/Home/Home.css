@@ -1,11 +1,10 @@
 body{
-    background-color: rgb(40, 39, 39);
+    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 .Main-container{
    display: flex;
    justify-content: space-evenly;
-   /* justify-content: row; */
    /* flex-wrap: wrap;  */
 }
 .heading-container{
@@ -14,8 +13,9 @@ body{
 .heading{
     font-size: 30px;
     padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
     padding-top: 20px;
-    color: white;
+    color: black;
 }
 .typed-out{
     overflow: hidden;
@@ -30,7 +30,7 @@ body{
     padding-left: 240px;
     padding-top: 20px;
     padding-bottom: 20px;
-    color: white;
+    color: black;
 }
 @keyframes typing{
     from {width: 0;}
@@ -47,7 +47,8 @@ body{
     margin: 20px;
 }
 #myName{
-    color:yellow;
+    color:rgb(204, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
 }
 #ProfileImg{
     margin-top: 5px;
@@ -107,15 +108,47 @@ body{
 }
 a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 .social-btn{
     margin-left:30px ;
 }
 #description{
-    font-size: 20px;
+    font-size: 17px;
     padding-left: 50px;
     padding-top: 20px;
-    color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 800px;
     display: inline-block;
 }
+#programmingbtns{
+    font-size: 16px;
+    padding: 8px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 0.5px 0px rgb(111, 111, 111);
+    color: black;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin: 10px;
+    margin-top: 22px;
+}
+#programmingbtns1{
+    font-size: 16px;
+    padding: 8px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 0.5px 0px rgb(111, 111, 111);
+    color: black;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin: 10px;
+    margin-top: 22px;
+    margin-left: 200px;
+}
+

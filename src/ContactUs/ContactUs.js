@@ -60,7 +60,7 @@ function ContactUs() {
 
             <a href="https://www.linkedin.com/in/vaibhav-gaikwad27/">  <button id="linkdbton" type='button'> <img id="LinkdinImg" src={linkdin} alt='profilephoto' /></button></a>
 
-            <button id="instagram" type='button'> <img id="InstaImg" src={instagram} alt='profilephoto' /></button>
+            <button id="instabton" type='button'> <img id="InstaImg" src={instagram} alt='profilephoto' /></button>
 
             <button id="instabton" type='button'> <img id="InstaImg" src={instagram} alt='profilephoto' /></button>
           </div>

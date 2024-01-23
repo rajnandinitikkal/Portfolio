@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 import Navbar from '../Navbar/Navbar';
-import ProfileImage from '../Images/WhatsApp_Image_2024-01-05_at_14.56.53-removebg-preview.png';
+import ProfileImage from '../Images/1706004464888-removebg-preview.png';
 import github from '../Images/GitHub.png';
 import instagram from '../Images/Instagram.png';
 import linkdin from '../Images/Linkdin.png';
@@ -18,9 +18,18 @@ function Home() {
                         </p>
                         <div className='typed-out'> "Front end Developer"</div>
                     </div>
-                    <span id="description">I'm Skilled and passionate about web designer. I am proficient in HTML, CSS,<br></br> Bootstrap, JavaScripT , Git & GitHub.</span>
+                    <span id="description">
+                        👋 Hi, I'm Vaibhav Gaikwad, a front-end developer passionate about crafting visually appealing and user-friendly websites. With expertise in HTML, CSS, and JavaScript, I specialize in turning design concepts into seamless digital experiences. My tech stack includes React and Angular.js, and I'm always exploring new tools to enhance my skills. Let's connect and explore how I can bring your ideas to life! 🚀
 
-                    <a href="https://www.canva.com/design/DAF3Wooqjis/cEedcBWLjFr9PwnLsXKCyQ/edit?utm_content=DAF3Wooqjis&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> <button id="download" type='button'>Download CV</button></a>
+                    </span>
+                    <br></br>
+                    <button id="programmingbtns1" type='button'>HTML</button>
+                    <button id="programmingbtns" type='button'>CSS</button>
+                    <button id="programmingbtns" type='button'>JavaScript</button>
+                    <button id="programmingbtns" type='button'>Git & GitHub</button>
+                    <br></br>
+
+                    <a href="https://drive.google.com/file/d/1_C3PR893V0zXLqKEFjD74pCz4KmWXk-Q/view?usp=sharing"> <button id="download" type='button'>Download CV</button></a>
 
                     <div className='social-btn'>
 

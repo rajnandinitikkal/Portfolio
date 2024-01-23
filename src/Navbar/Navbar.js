@@ -19,9 +19,6 @@ export default function Navbar() {
       // activeClass='active' spy={true} smooth={true} offset={-100} duration={500}
       >AboutMe</NavLink>
 
-      <NavLink to="/PortFolio" className="nav-item" 
-      // activeClass='active' spy={true} smooth={true} offset={-100} duration={500}
-      >PortFolio</NavLink>
       </div>
 
       <NavLink to="/ContactUs" className="nav-item1"><button id="contact-btn"
