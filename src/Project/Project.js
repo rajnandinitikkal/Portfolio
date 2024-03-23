@@ -50,28 +50,35 @@ function Project() {
 
       <div>
         <h2 id="projectheading2">Mini Projects</h2>
+
         <div class="projectCards">
 
+        
         <div class="miniProjectCards">
-          <img src={DiceRoller} alt="DiceRoller" id='miniimg'/>
+        <p class="miniprojectname">Dice Roller</p>
+        <a href='https://dice-rollerdesign.netlify.app/'>
+          <img src={DiceRoller} alt="DiceRoller" id='miniimg'/></a>
         </div>
 
+       
         <div class="miniProjectCards">
-        <img src={DigiClock} alt="DigiClock" id='miniimg'/>
+        <p class="miniprojectname">Digital Clock</p>
+        <a href='https://digital-clockdesign.netlify.app/'>
+        <img src={DigiClock} alt="DigiClock" id='miniimg'/></a>
         </div>
 
-        <div class="miniProjectCards">
+        
+        <div class="miniProjectCards"> 
+        <p class="miniprojectname">Calculator</p>
+        <a href='https://calculatorrutuja.netlify.app/'>
         <img src={Calculator} alt="Calculator" id='miniimg'/>
+         </a>
         </div>
 
         </div>
       </div>
 
-      <div class="miprojectCards2">
-      <h2 id="projectname"><a href='https://dice-rollerdesign.netlify.app/'>Demo</a></h2>
-      <h2 id="projectname"><a href='https://digital-clockdesign.netlify.app/'>Demo</a></h2>
-     <h2 id="projectname"> <a href='https://calculatorrutuja.netlify.app/'>Demo</a></h2>
-      </div>
+
 
     </div>
     </>
