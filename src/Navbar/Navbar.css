@@ -2,14 +2,15 @@ body{
     margin: 0px;
 }
 .navbar{
+    /* border: solid rgb(141, 140, 140)px;
+    border-radius: none;
+    box-shadow:  2px 3px 2px 2px rgb(127, 126, 126); */
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     text-align: center;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     height: 80px;
-    /* margin-right:auto; */
-    cursor: pointer;
 }
 .nav-item{
     color: black;
@@ -18,15 +19,8 @@ body{
     margin-right:20px;
     margin-left: 20px;
     text-decoration: none;
-    position: relative;
-   
-}
-.nav-item1{
-    color: black;
-    font-size: 22px;
-    margin-top: 20px;
-    text-decoration: none;
-    position: relative;
+    position: relative; 
+    cursor: pointer;
 }
 .nav-item::after{
 content: '';
@@ -51,23 +45,6 @@ transform: scaleX(0);
 .bi{
     margin: 10px;
     margin-top: 15px;
-}
-#contact-btn{
-    padding: 3px 10px;
-    font-size: 20px;
-    border-radius: 13px;
-    background-color: white;
-    display: flex;
-    align-items: center;
-    border: none;
-    margin-right:20px;
-    cursor: pointer;
-}
-#contactimg{
-    height: 25px;
-    margin: 5px;
-    display: inline-block;
-    object-fit: cover;
 }
 .div1{
     margin-top: 25px;

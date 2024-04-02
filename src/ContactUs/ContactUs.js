@@ -5,6 +5,7 @@ import github from '../Images/GitHub.png'
 import instagram from '../Images/Instagram.png'
 import linkdin from '../Images/Linkdin.png'
 import showToast from 'crunchy-toast';
+import FacebookImg from '../Images/facebookimg.avif';
 
 function ContactUs() {
   const [name, setName] = useState("");
@@ -62,7 +63,7 @@ function ContactUs() {
 
             <button id="instabton" type='button'> <img id="InstaImg" src={instagram} alt='profilephoto' /></button>
 
-            <button id="instabton" type='button'> <img id="InstaImg" src={instagram} alt='profilephoto' /></button>
+            <button id="facebookbton" type='button'> <img id="facebookImg" src={FacebookImg} alt='profilephoto' /></button>
           </div>
           </div>
         </div>
