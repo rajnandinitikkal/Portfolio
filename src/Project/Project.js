@@ -44,7 +44,7 @@ function Project() {
           <h2 id="projectname">📰 NewsApp</h2>
           <p>NewsApp is a JavaScript-based project designed to deliver a seamless and personalized news experience. This application employs dynamic features to fetch real-time news updates from diverse sources, providing users with a curated feed based on their preferences. With a clean and intuitive user interface, NewsApp ensures an efficient and enjoyable news browsing experience. Users can explore articles, customize their news feed, and stay informed on the latest events effortlessly. </p><br></br>
           <a href='https://github.com/vaibhavgaikwad8476/NewsApp'><span id="sourcecode">Source Code</span>  : https://github.com/vaibhavgaikwad8476/NewsApp</a><br></br><br></br>
-          <a href='https://bejewelled-baklava-9b81f5.netlify.app/'><span id="sourcecode">Demo </span> :https://bejewelled-baklava-9b81f5.netlify.app/</a>
+          <a href='https://bejewelled-baklava-9b81f5.netlify.app/'><span id="sourcecode">Demo </span> : https://bejewelled-baklava-9b81f5.netlify.app/</a>
         </div>
       </div>
 

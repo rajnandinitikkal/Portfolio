@@ -139,12 +139,13 @@ function AboutMe() {
 
       <div class="educationBox">
         <h1 class="eduhead">Education</h1>
-        <div>
+
+        <div class="skillsedication">
           <div class="educations">
-            <h3 class="Subeduhead">Bachelor's of  Engineering - BE, Computer Engineering</h3>
+            <h3 class="Subeduhead">Bachelor's of  Engineering, Computer Engineering</h3>
             <div class="educationDescription">
               <p>College: Hon. Shri Babanroa Pachlute Vichardhara trusts group of institutions College of Engineering, Ahmednagar</p>
-              <p id="grade">Grade: A+</p>
+              <p id="grade">SGPA: 7.21</p>
               <i class="courseyear">July 2021 - June 2024</i>
 
             </div>
@@ -155,8 +156,8 @@ function AboutMe() {
           <div class="educations">
             <h3 class="Subeduhead">Diploma, Mechanical Engineering</h3>
             <div class="educationDescription">
-              <p>College: Government of polytechnic College Kolhapur</p>
-              <p id="grade">Grade: A+</p>
+              <p>College: Government polytechnic Kolhapur, KOlhapur</p>
+              <p id="grade">Percentage: 89.71</p>
               <i class="courseyear">July 2019 - May 2021</i>
 
             </div>
@@ -168,7 +169,7 @@ function AboutMe() {
             <h3 class="Subeduhead">Higher Secondary, Science</h3>
             <div class="educationDescription">
               <p>College: Shri Aranyeshwar Vidyalaya and Junior College Arangoan</p>
-              <p id="grade">Grade: A+</p>
+              <p id="grade">Percentage: </p>
               <i class="courseyear">June 2018 - Feb 2019</i>
 
             </div>
@@ -179,7 +180,7 @@ function AboutMe() {
             <h3 class="Subeduhead">Secondary School, Semi-english</h3>
             <div class="educationDescription">
               <p>College: Shri vitthal vidyalaya Mahijalgon</p>
-              <p id="grade">Grade: A+</p>
+              <p id="grade">Percentage: </p>
               <i class="courseyear">June 2017</i>
 
             </div>
