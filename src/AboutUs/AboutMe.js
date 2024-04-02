@@ -132,7 +132,7 @@ function AboutMe() {
             <button class="mernstackbtn">CSS</button>
             <button class="mernstackbtn">JavaScript</button>
             <button class="mernstackbtn">ReactJs & AngularJs</button>
-            <button class="mernstackbtn">Git & GitHub</button>
+            <button class="mernstackbtn">GitHub</button>
           </div>
         </div>
       </div>
@@ -142,47 +142,47 @@ function AboutMe() {
 
         <div class="skillsedication">
           <div class="educations">
+          <p class="courseyear">July 2021 - June 2024</p>
             <h3 class="Subeduhead">Bachelor's of  Engineering, Computer Engineering</h3>
+            <hr></hr><br></br>
             <div class="educationDescription">
               <p>College: Hon. Shri Babanroa Pachlute Vichardhara trusts group of institutions College of Engineering, Ahmednagar</p>
               <p id="grade">SGPA: 7.21</p>
-              <i class="courseyear">July 2021 - June 2024</i>
-
             </div>
             <br></br>
           </div>
 
 
           <div class="educations">
+          <p class="courseyear">July 2019 - May 2021</p>
             <h3 class="Subeduhead">Diploma, Mechanical Engineering</h3>
+            <hr></hr><br></br>
             <div class="educationDescription">
               <p>College: Government polytechnic Kolhapur, KOlhapur</p>
               <p id="grade">Percentage: 89.71</p>
-              <i class="courseyear">July 2019 - May 2021</i>
-
             </div>
             <br></br>
           </div>
 
 
           <div class="educations">
+          <p class="courseyear">June 2018 - Feb 2019</p>
             <h3 class="Subeduhead">Higher Secondary, Science</h3>
+            <hr></hr><br></br>
             <div class="educationDescription">
               <p>College: Shri Aranyeshwar Vidyalaya and Junior College Arangoan</p>
               <p id="grade">Percentage: </p>
-              <i class="courseyear">June 2018 - Feb 2019</i>
-
             </div>
             <br></br>
           </div>
 
           <div class="educations">
+          <p class="courseyear">June 2017</p>
             <h3 class="Subeduhead">Secondary School, Semi-english</h3>
+            <hr></hr><br></br>
             <div class="educationDescription">
               <p>College: Shri vitthal vidyalaya Mahijalgon</p>
               <p id="grade">Percentage: </p>
-              <i class="courseyear">June 2017</i>
-
             </div>
             <br></br>
           </div>

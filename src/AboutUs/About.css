@@ -315,19 +315,22 @@ margin: 15px;
     padding: 15px;
 }
 .Subeduhead{
-    text-decoration: underline;
     text-underline-offset: 10px;
     text-decoration-thickness: 1.5px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: black;
     font-size: 20px;
+}
+hr{
+    background-color: black;
 }
 #grade{
     color: rgb(88, 87, 87);
     margin-top: 7px;
 }
 .courseyear{
-    color: rgb(97, 96, 96);
+    color: rgb(68, 92, 246);
+    padding-bottom: 12px;
     font-size: 15px;
 }
 .professionalskill{
@@ -356,7 +359,7 @@ margin: 15px;
         border: none;
         border-radius: 10px;
         height: 250px;
-        width: 650px;
+        width: 600px;
         margin-top: 50px;
         padding: 17px;
         margin-bottom: 70px;
